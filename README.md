@@ -1,7 +1,5 @@
  📅 Cronograma de Estudos - UX Design
 
-Este é o cronograma de estudos detalhado para as **4 semanas**, projetado para **1 hora diária de dedicação**.
-
  📋 Legenda de Atividades
 
 * 📘 **Teoria**: Aulas teóricas e conceitos fundamentais.
@@ -14,7 +12,7 @@ Este é o cronograma de estudos detalhado para as **4 semanas**, projetado para 
 
  🗺️ Semana 1: Fundamentos de UX e Arquitetura de Informação
 
-Foco: Entender os princípios de UX e como estruturar a informação de um produto digital.*
+Foco: Entender os princípios de UX e como estruturar a informação de um produto digital.
 
 | Check | Dia | Tipo | Conteúdo / Aula Prática |
 | :---: | :--- | :--- | :--- |
@@ -28,7 +26,7 @@ Foco: Entender os princípios de UX e como estruturar a informação de um produ
 
  🎨 Semana 2: Introdução ao UI Design e Wireframing
 
-Foco: Compreender os princípios de interface e criar as primeiras estruturas visuais (wireframes).*
+Foco: Compreender os princípios de interface e criar as primeiras estruturas visuais (wireframes).
 
 | Check | Dia | Tipo | Conteúdo / Aula Prática |
 | :---: | :--- | :--- | :--- |
@@ -42,4 +40,4 @@ Foco: Compreender os princípios de interface e criar as primeiras estruturas vi
 
  ⚙️ Semana 3: Figma e Design Systems
 
-Foco: Dominar a principal ferramenta do mercado e estruturar componentes reutilizáveis.*
+Foco: Dominar a principal ferramenta do mercado e estruturar componentes reutilizáveis
