@@ -1,43 +1,28 @@
- 📅 Cronograma de Estudos - UX Design
+# 📚 Formação UX Design - Plano de Estudos
 
- 📋 Legenda de Atividades
+Este repositório foi estruturado para organizar e acompanhar o plano de estudos prático da **Formação UX Design**, com o objetivo de concluir 100% da grade da DIO estudando **1 hora por dia**, distribuída em **4 semanas**.
 
-* 📘 **Teoria**: Aulas teóricas e conceitos fundamentais.
-* 📑 **Leitura**: Estudo de artigos e materiais complementares.
-* 🔄 **Revisão**: Fixação e recapitulação de conteúdos.
-* 🛠️ **Prática / Mão na Massa**: Exercícios práticos e aplicação em ferramentas.
-* 🎨 **PROJETO**: Desenvolvimento dos desafios práticos avaliativos.
+---
 
- 🗓️ Semanas de Estudos
+## 🎯 Objetivo Geral
+Concluir de forma consistente e prática todas as etapas do curso, consolidando o aprendizado com projetos reais, leituras complementares e anotações diárias.
 
- 🗺️ Semana 1: Fundamentos de UX e Arquitetura de Informação
+---
 
-Foco: Entender os princípios de UX e como estruturar a informação de um produto digital.
+## 📁 Estrutura do Repositório
 
-| Check | Dia | Tipo | Conteúdo / Aula Prática |
-| :---: | :--- | :--- | :--- |
-| [ ] | Segunda | 📘 Teoria | Aula: Entendendo a Arquitetura |
-| [ ] | Terça | 📘 Teoria | Aula: Fundamentos de Arquitetura da Informação |
-| [ ] | Quarta | 📑 Leitura | Estudo dos Materiais Complementares de UX |
-| [ ] | Quinta | 🔄 Revisão | Fixação de conceitos de fluxos de navegação |
-| [ ] | Sexta | 📘 Teoria | Aula: Introdução ao UX Design |
-| [ ] | Sábado | 🛠️ Prática | **Mão na Massa:** Mapear arquitetura de um app real |
-| [ ] | Domingo | 🥳 Descanso | Descanso |
+O espaço de estudos está organizado da seguinte forma:
 
- 🎨 Semana 2: Introdução ao UI Design e Wireframing
+1. **[`README.md`](file:///c:/Users/adeli/OneDrive/Desktop/estudos.carreira/README.md)**: Este documento, contendo a visão geral do plano de estudos, objetivos e instruções de uso.
+2. **[`cronograma.md`](file:///c:/Users/adeli/OneDrive/Desktop/estudos.carreira/cronograma.md)**: O cronograma semanal detalhado dia a dia, com checkboxes para você marcar seu progresso à medida que avança.
+3. **📂 `anotacoes/`**: Pasta destinada às suas notas de estudo.
+   - **[`semana-01.md`](file:///c:/Users/adeli/OneDrive/Desktop/estudos.carreira/anotacoes/semana-01.md)**: Um modelo completo estruturado para você registrar seus aprendizados, insights e atividades práticas. Você pode duplicá-lo para as semanas seguintes (`semana-02.md`, etc.).
+4. **[`recursos.md`](file:///c:/Users/adeli/OneDrive/Desktop/estudos.carreira/recursos.md)**: Curadoria de materiais de apoio, links recomendados, referências e ferramentas divididas por semana para enriquecer seu aprendizado.
 
-Foco: Compreender os princípios de interface e criar as primeiras estruturas visuais (wireframes).
+---
 
-| Check | Dia | Tipo | Conteúdo / Aula Prática |
-| :---: | :--- | :--- | :--- |
-| [ ] | Segunda | 📘 Teoria | Aula: Introdução ao UI Design |
-| [ ] | Terça | 📘 Teoria | Aula: Entendendo Conceitos de Fonte e Tipografia |
-| [ ] | Quarta | 📑 Leitura | Estudo dos Materiais Complementares de UX/UI |
-| [ ] | Quinta | 📄 Guia | Aula: Como Entregar seu Desafio de Projeto |
-| [ ] | Sexta | 📘 Teoria | Aula: Criando um Wireframe de Média Fidelidade |
-| [ ] | Sábado | 🛠️ Prática | **Mão na Massa:** Desenhar wireframe da Tela 1 |
-| [ ] | Domingo | 🛠️ Prática | **Mão na Massa:** Desenhar wireframe das Telas 2 e 3 |
+## 🚀 Como Utilizar Este Espaço
 
- ⚙️ Semana 3: Figma e Design Systems
-
-Foco: Dominar a principal ferramenta do mercado e estruturar componentes reutilizáveis
+1. **Acompanhe o Cronograma**: Abra o arquivo [`cronograma.md`](file:///c:/Users/adeli/OneDrive/Desktop/estudos.carreira/cronograma.md) no início de cada dia para ver qual é o foco de estudo (Teoria, Leitura, Prática, Projeto, etc.). Ao finalizar a sessão, marque o checkbox com `[x]`.
+2. **Faça Anotações**: No início de cada semana, copie o modelo [`anotacoes/semana-01.md`](file:///c:/Users/adeli/OneDrive/Desktop/estudos.carreira/anotacoes/semana-01.md) para um novo arquivo da semana correspondente (ex: `semana-02.md`) e registre suas notas diárias.
+3. **Consulte os Recursos**: Acesse o arquivo [`recursos.md`](file:///c:/Users/adeli/OneDrive/Desktop/estudos.carreira/recursos.md) para ler os materiais complementares sugeridos para cada semana.
